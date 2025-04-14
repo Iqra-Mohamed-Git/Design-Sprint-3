@@ -52,7 +52,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/Collapsible_Water_Stand_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
@@ -66,7 +66,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 4. Assemble the Collapsible Water Gun Stand
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Collapsible_Water_Stand_Maker_Guide.pdf)  for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)  for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
