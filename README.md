@@ -24,16 +24,16 @@ Any text that is currently holding a space / is an instruction for the person fi
 --->
  
 <!--- TITLE --->
-# <DeviceName>
+# Collapsible Water Gun Stand
 <!--- Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The <DeviceName> is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>. 
+The Collapsible Water Gun Stand is an assistive technology device that uses a switch to trigger the water gun to shoot water. The water gun sits on top of a stand that was 3D printed.
 
-<MODIFY LINE AS NECESSARY> The device is comprised of off-the-shelf electronics and 3D printed parts. 
+<MODIFY LINE AS NECESSARY> The device is comprised of an off-the-shelf water gun that was adapted to fit our needs and 3D printed parts. 
 
-The <DeviceName> is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+The Collapsible Water Gun Stand is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
 The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
 
@@ -47,21 +47,12 @@ The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
 
-### 2. Request a build of this device
-
-You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](<MMCWebLink>) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
-
-### 3. Build this device for someone else
-
-If you have the skills and equipment to build this device, and would like to donate your time to create the device for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
-
-
 ## Build Instructions
 <!--- Outline the major steps required to create a build --->
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
@@ -73,7 +64,7 @@ The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the 
 
 All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the <DeviceName>
+### 4. Assemble the Collapsible Water Gun Stand
 
 Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf) for the tools and steps required to build the device.
 
@@ -89,23 +80,21 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
 | Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
 | User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
-| Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
-### Design Files
+<!---### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
- - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
 
-### Build Files
+
+<!---### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
- - [3D Printing Files](/Build_Files/3D_Printing_Files)
+<!--- - [3D Printing Files](/Build_Files/3D_Printing_Files)
  - [PCB Build Files](/Build_Files/PCB_Build_Files)
  - [Firmware Files](/Build/Firmware_Files)
 
 
 ## License
 <!--- Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
-Copyright (c) <YEAR> <DesignerName>.
+Copyright (c) 2025 Green Bean Team.
 
 This repository describes Open Hardware:
  - Everything needed or used to design, make, test, or prepare the <DeviceName> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
@@ -120,7 +109,7 @@ Source Location: <Repository_Link>
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by <DesignerName>. 
+The Interact Switch design by Mike Turvey is used under CC-BY 4.0. Instructions adapted from Original Interact Switch Assembly Instructions by Mike Turvey, used under CC-BY 4.0. 1 2 3 4 5 6 7 V1.1 | AUGUST 2023 Interact Switch ASSEMBLY GUIDE © 2023 by Neil Squire / Makers Making Change. This work is licensed under the CC BY SA 4.0 License: http://creativecommons.org/licenses/by-sa/4.0 Files available at 
 
 <!--- This is the attribution for the template. --->
 The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
@@ -128,18 +117,22 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
- - <DESIGNER 1>
- - <DESIGNER 2>
+ - Kayla Olivas
+ - Sam Kenney
+ - Zander Leong
+ - Iqra Mohammed
 
 Testers:
- - <TESTER 1>
- - <TESTER 2>
+ - Kayla Olivas
+ - Sam Kenney
+ - Zander Leong
+ - Iqra Mohammed
 
 
 ---
 <!--- This is standard boilerplate for Makers Making Change. No changes should be required. --->
 <!-- ABOUT MMC START -->
-## About Makers Making Change
+## This project was inspired by Makers Making Change, learn more about them here:
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
 Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
@@ -155,6 +148,3 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
  - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
  - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
 
-### Contact Us
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
-<!-- ABOUT MMC END -->
