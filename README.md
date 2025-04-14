@@ -79,7 +79,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Design Rationale     | 1.0     | [Design Rationale](/Documentation/Collapsible_Water_Gun_Stand_Design_Rationale.pdf)     |
 | Maker Guide          | 1.0     | [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)     |
 | Bill of Materials    | 1.0     | [Bill Of Material](/Documentation/Collapsible_Water_Stand_BOM.csv)     | 
-| User Guide           | 1.0     | [User_Guide](/Documentation/Collapsible_Water_Stand_User_Guide.pdf)    | 
+| User Guide           | 1.0     | [User_Guide](/Documentation/Collapsible_Water_Gun_Stand_User_Guide.pdf)    | 
 
 <!---### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
