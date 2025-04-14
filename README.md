@@ -31,7 +31,7 @@ Any text that is currently holding a space / is an instruction for the person fi
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
 The Collapsible Water Gun Stand is an assistive technology device that uses a switch to trigger the water gun to shoot water. The water gun sits on top of a stand that was 3D printed.
 
-<MODIFY LINE AS NECESSARY> The device is comprised of an off-the-shelf water gun that was adapted to fit our needs and 3D printed parts. 
+The device is comprised of an off-the-shelf water gun that was adapted to fit our needs and 3D printed parts. 
 
 The Collapsible Water Gun Stand is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
