@@ -35,7 +35,7 @@ The device is comprised of an off-the-shelf water gun that was adapted to fit ou
 
 The Collapsible Water Gun Stand is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $<23> (plus $<6.99> for component shipping) 
+The overall cost of materials is about $23 (plus $6.99 for component shipping) 
 
 <img src="Photos/Device_Name.jpg" width="500" alt="Picture of <DeviceName>.">
 
