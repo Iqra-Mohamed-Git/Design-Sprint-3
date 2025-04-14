@@ -35,7 +35,7 @@ The Collapsible Water Gun Stand is an assistive technology device that uses a sw
 
 The Collapsible Water Gun Stand is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
+The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping) **Iqra will update.
 
 <img src="Photos/Device_Name.jpg" width="500" alt="Picture of <DeviceName>.">
 
@@ -57,7 +57,7 @@ The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all th
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device. ** Iqra will update
 
 
 ### 3. Print the 3D Printable components
@@ -78,8 +78,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
 | Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
+| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     | **Iqra will update
+| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    | **Iqra will update
 
 <!---### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
@@ -105,7 +105,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <Repository_Link> 
+Source Location: [<Repository_Link> ](https://github.com/Iqra-Mohamed-Git/Design-Sprint-3.git)
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
