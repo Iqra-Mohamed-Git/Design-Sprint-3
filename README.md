@@ -77,7 +77,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/Collapsible_Water_Stand_Maker_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [Maker Guide](/Documentation/Collapsible_Water_Stand_Maker_Guide.pdf)     |
+| Maker Guide          | 1.0     | [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)     |
 | Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     | **Iqra will update
 | User Guide           | 1.0     | [<Device_Name>_User_Guide](Collapsible_Water_Stand_Maker_User_Guide.pdf)    | **Iqra will update
 
