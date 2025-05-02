@@ -80,7 +80,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: [github.com/Iqra-Mohamed-Git/Design-Sprint-3/](https://github.com/Iqra-Mohamed-Git/Design-Sprint-3.git)
+Source Location: [https://github.com/Iqra-Mohamed-Git/Design-Sprint-3/](https://github.com/Iqra-Mohamed-Git/Design-Sprint-3.git)
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
