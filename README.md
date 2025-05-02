@@ -12,7 +12,7 @@ The Collapsible Water Gun Stand is open assistive technology (OpenAT). Under the
 
 The overall cost of materials is about $23 (plus $6.99 for component shipping) 
 
-<img src="Photos/Device_Name.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/Switch Adapted Water Gun with Collapsible Stand.PNG" width="500" alt="Picture of Switch Adpated Water Gun with Collapsible Stand.">
 
 ## Makers Making Change Assistive Device Library
 <MMCWebLink>
@@ -27,12 +27,12 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Collapsible_Water_Gun_Stand_BOM.csv) lists all of the parts and components required to build the device. 
+The [Bill of Materials](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_BOM.csv) lists all of the parts and components required to build the device. 
 
 
 ### 3. Print the 3D Printable components
@@ -41,7 +41,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 4. Assemble the Collapsible Water Gun Stand
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)  for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_Maker_Guide.pdf)  for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -51,10 +51,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Design Rationale](/Documentation/Collapsible_Water_Gun_Stand_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [Maker Guide](/Documentation/Collapsible_Water_Gun_Stand_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [Bill Of Material](/Documentation/Collapsible_Water_Stand_BOM.csv)     | 
-| User Guide           | 1.0     | [User_Guide](/Documentation/Collapsible_Water_Gun_Stand_User_Guide.pdf)    | 
+| Design Rationale     | 1.0     | [Design Rationale](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [Maker Guide](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Bill Of Material](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_BOM.csv)     | 
+| User Guide           | 1.0     | [User_Guide](/Documentation/Switch_Adapted_Water_Gun_with_Collapsible_Stand_User_Guide.pdf)    | 
 
 <!---### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
