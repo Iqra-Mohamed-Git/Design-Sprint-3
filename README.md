@@ -12,7 +12,7 @@ The Collapsible Water Gun Stand is open assistive technology (OpenAT). Under the
 
 The overall cost of materials is about $23 (plus $6.99 for component shipping) 
 
-<img src="Photos/Switch Adapted Water Gun with Collapsible Stand.PNG" width="500" alt="Picture of Switch Adpated Water Gun with Collapsible Stand.">
+<img src="Photos/Switch_Adapted_Water_Gun_with_Collapsible_Stand.PNG" width="500" alt="Picture of Switch Adpated Water Gun with Collapsible Stand.">
 
 ## Makers Making Change Assistive Device Library
 <MMCWebLink>
